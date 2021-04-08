@@ -22,10 +22,10 @@ namespace BankApplication
                 }
         }
 
-        public void CalculateInterest()
+        public decimal CalculateInterest()
         {
-            System.Console.Write("Interest paid as ");
-            this.Credit( InterestRate * Balance );
+            
+            return InterestRate * Balance;
         }
         
     }

@@ -27,7 +27,8 @@ namespace BankApplication
                 if (account is SavingsAccount)
                     {
                         SavingsAccount castedAccount = (SavingsAccount) account;
-                        castedAccount.CalculateInterest();
+                        System.Console.Write("Interest paid as ");
+                        castedAccount.Credit(castedAccount.CalculateInterest());
                     }
                 Console.WriteLine($"Balance from account.Balance is {account.Balance:C}");                    
                 }
