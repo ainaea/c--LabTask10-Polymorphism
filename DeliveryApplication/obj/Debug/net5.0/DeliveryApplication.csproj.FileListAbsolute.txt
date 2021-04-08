@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.exe
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.dll
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\ref\DeliveryApplication.dll
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\bin\Debug\net5.0\DeliveryApplication.pdb
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.dll
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\ref\DeliveryApplication.dll
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.pdb
+C:\CodebitsAcademy\C#  labTask\labTask10-Polymorphism\DeliveryApplication\obj\Debug\net5.0\DeliveryApplication.genruntimeconfig.cache
