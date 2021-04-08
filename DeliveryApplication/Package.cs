@@ -6,12 +6,28 @@ namespace DeliveryApplication
         public string SendersAddress { get; private set; }
         public string ReceiversAddress { get; private set; }
 
-        public Package(string name, string sender, string receiver)
+        private int weight;
+        public Package(string name, string sender, string receiver, int weight)
         {
             Name = name;
             SendersAddress = sender;
             ReceiversAddress = receiver;
+            Weight = weight;
         }
+        public int Weight
+        {
+            get { return weight; }
+            set {
+                if (value > 0)
+                {
+                     weight = value; 
+                }else
+                {
+                    throw new System.ArgumentOutOfRangeException();
+                }
+            }
+        }
+        
 
         public abstract decimal CalculateCost();
 
